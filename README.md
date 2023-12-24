@@ -5,20 +5,20 @@ We have integrated Frontend with the smart contract. By integrating the contract
 ## Getting Started
 * Git clone the repository to a specific folder
 * After that install all the dependencies 
-- npm install
-- npx hardhat
+ npm install
+npx hardhat
 
 
 ### Executing program
 * After installing all the dependencies, compile the contract.
-- npx hardhat compile 
+ npx hardhat compile 
 
 * After compiling, make sure you setup a local network
-- npx hardhat node
+npx hardhat node
 
 * At the end start the localhost server at port 3000 to interact with the integrated frontent
-- npm start
-- 
+ npm start
+
 ## Help
 Make sure to watch the tutorials properly to have a proper understanding of the concepts.
 
